@@ -13,10 +13,6 @@ export default function Navbar() {
           {' '}
           <Link to='Signup'> Signup</Link>
         </li>
-        <li>
-          {' '}
-          <Link to='home'> Login</Link>
-        </li>
       </ul>
     </nav>
   )
